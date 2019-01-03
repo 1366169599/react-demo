@@ -1,0 +1,242 @@
+{
+    "code": 200,
+    "msg": "ok",
+    "data": {
+        "user": {
+            "openableMeishiShops": [],
+            "hasMultiShops": 1,
+            "role": 1,
+            "isAdmin": 1,
+            "userId": "20075904",
+            "shopList": [{
+                "shopTypes": [3, 5],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 0
+                },
+                "shopId": 4550707,
+                "shopName": "Mo-Mo牧场(陕南牧场)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [1, 3, 5],
+                "bizStatusMap": {
+                    "1": 1,
+                    "3": 1,
+                    "5": 1
+                },
+                "shopId": 11552135,
+                "shopName": "大董海参店(上海越洋广场店)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [1, 3, 5, 7],
+                "bizStatusMap": {
+                    "1": 1,
+                    "3": 0,
+                    "5": 1,
+                    "7": 1
+                },
+                "shopId": 5437462,
+                "shopName": "大牌小厨(国际金融中心店2)",
+                "cityName": "南京"
+            }, {
+                "shopTypes": [4, 5],
+                "bizStatusMap": {
+                    "4": 1,
+                    "5": 1
+                },
+                "shopId": 82653055,
+                "shopName": "金爷牛腩",
+                "cityName": "北京"
+            }, {
+                "shopTypes": [3],
+                "bizStatusMap": {
+                    "3": 1
+                },
+                "shopId": 112250335,
+                "shopName": "如图ABC",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [3, 5],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 0
+                },
+                "shopId": 15606608,
+                "shopName": "正新鸡排(新泾店)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [1, 3, 5, 6],
+                "bizStatusMap": {
+                    "1": 1,
+                    "3": 1,
+                    "5": 1,
+                    "6": 0
+                },
+                "shopId": 8067103,
+                "shopName": "HomeThai(上海K11艺术中心店)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [3, 5],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 0
+                },
+                "shopId": 40359848,
+                "shopName": "秦风羊肉粉馆",
+                "cityName": "长沙"
+            }, {
+                "shopTypes": [4, 5],
+                "bizStatusMap": {
+                    "4": 1,
+                    "5": 1
+                },
+                "shopId": 32386940,
+                "shopName": "胖哥俩肉蟹煲(巴黎春天店)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [3, 5, 7],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 1,
+                    "7": 0
+                },
+                "shopId": 24717015,
+                "shopName": "小帅重庆面",
+                "cityName": "密云区"
+            }, {
+                "shopTypes": [1, 5, 7],
+                "bizStatusMap": {
+                    "1": 0,
+                    "5": 1,
+                    "7": 0
+                },
+                "shopId": 82637986,
+                "shopName": "好吃的test",
+                "cityName": "天津"
+            }, {
+                "shopTypes": [4, 5],
+                "bizStatusMap": {
+                    "4": 1,
+                    "5": 1
+                },
+                "shopId": 24335649,
+                "shopName": "胖哥俩肉蟹煲",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [3, 5, 7],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 0,
+                    "7": 1
+                },
+                "shopId": 6203686,
+                "shopName": "巴蜀传香(吴中店)",
+                "cityName": "苏州"
+            }, {
+                "shopTypes": [4, 5],
+                "bizStatusMap": {
+                    "4": 1,
+                    "5": 1
+                },
+                "shopId": 1901698,
+                "shopName": "星巴克(中山公园店)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [3, 5],
+                "bizStatusMap": {
+                    "3": 0,
+                    "5": 1
+                },
+                "shopId": 22734383,
+                "shopName": "江阴",
+                "cityName": ""
+            }, {
+                "shopTypes": [3, 5],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 1
+                },
+                "shopId": 13876883,
+                "shopName": "万岛日本料理铁板烧(外滩店)",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [4, 5],
+                "bizStatusMap": {
+                    "4": 1,
+                    "5": 0
+                },
+                "shopId": 6145588,
+                "shopName": "御宝轩",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [1, 4, 5, 7],
+                "bizStatusMap": {
+                    "1": 0,
+                    "4": 0,
+                    "5": 1,
+                    "7": 0
+                },
+                "shopId": 82638865,
+                "shopName": "TEST_广告_金泽方舟甜点381",
+                "cityName": "密云区"
+            }, {
+                "shopTypes": [],
+                "bizStatusMap": {},
+                "shopId": 32306499,
+                "shopName": "火锅",
+                "cityName": "绥中县"
+            }, {
+                "shopTypes": [2, 3, 5],
+                "bizStatusMap": {
+                    "2": 1,
+                    "3": 1,
+                    "5": 1
+                },
+                "shopId": 82381518,
+                "shopName": "t_AQX566xE",
+                "cityName": "点评实验室"
+            }, {
+                "shopTypes": [4, 5, 7],
+                "bizStatusMap": {
+                    "4": 1,
+                    "5": 1,
+                    "7": 1
+                },
+                "shopId": 82653002,
+                "shopName": "外卖广告_甜点饮品_xian_001",
+                "cityName": "西安"
+            }, {
+                "shopTypes": [4, 5, 7],
+                "bizStatusMap": {
+                    "4": 0,
+                    "5": 1,
+                    "7": 1
+                },
+                "shopId": 19804889,
+                "shopName": "巴蜀人家",
+                "cityName": "上海"
+            }, {
+                "shopTypes": [3, 5],
+                "bizStatusMap": {
+                    "3": 1,
+                    "5": 1
+                },
+                "shopId": 4088803,
+                "shopName": "莫尔顿牛排坊",
+                "cityName": "上海"
+            }],
+            "redirectToOpenViewMenuGuidePage": 0,
+            "displayOpenOrderdishText": 0
+        },
+        "shop": {
+            "isIntellShop": 0,
+            "shopId": 8067103,
+            "shopName": "HomeThai(上海K11艺术中心店)",
+            "isClosing": 0,
+            "shopBizTypes": [1, 3, 5, 6],
+            "isCloudShopAssistant": true,
+            "isDeployed": true,
+            "supportTable": false
+        }
+    }
+}

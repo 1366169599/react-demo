@@ -1,0 +1,15 @@
+{
+    "presets": [
+        "react-app"
+    ],
+    "plugins": [
+        [
+            "zent", {
+                "moduleMappingFile": "zent/lib/module-mapping.json",
+                "noModuleRewrite": false,
+                "automaticStyleImport": true,
+                "useRawStyle": false
+            }
+        ]
+    ]
+}
